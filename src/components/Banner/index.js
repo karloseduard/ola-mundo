@@ -9,7 +9,7 @@ export  default function Banner(){
                 <h1 className={styles.titulo}>
                     Olá, Mundo
                 </h1>
-                <p className={styles.paragrafo}>Desenvolvedor Front-End com mais de 3 anos de experiência em tecnologias como React.js, Next.js, JavaScript e TypeScript. Estudante de Engenharia de Software na UFC, com forte foco em criar soluções inovadoras e de alta qualidade. Busco uma oportunidade para aplicar minhas habilidades e contribuir para projetos desafiadores.</p>
+                <p className={styles.paragrafo}>Desenvolvedor Front-End com experiência em tecnologias como React.js, Next.js, JavaScript e TypeScript. Estudante de Engenharia de Software na UFC, com forte foco em criar soluções inovadoras e de alta qualidade. Busco uma oportunidade para aplicar minhas habilidades e contribuir para projetos desafiadores.</p>
             </div>
             <div className={styles.imagens}>
                 <img src={circuloColorido} 
