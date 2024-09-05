@@ -7,3 +7,9 @@
     align-items: center;
     column-gap: .5rem;
 }
+.links{
+    margin-left: 16px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
