@@ -14,9 +14,6 @@ export default function Rodape(){
         <a href='https://www.linkedin.com/in/karlos-eduardo-leit%C3%A3o-cavalcante/'>
             <img src={imgLinkedin} alt='logo do Linkedin'/>
         </a>
-        <a href='https://cursos.alura.com.br/user/karloseduardocavalcante56'>
-            <img src='https://cursos.alura.com.br/assets/images/logos/logo-alura.svg' alt='logo do Linkedin'/>
-        </a>
         </div>
         
         
